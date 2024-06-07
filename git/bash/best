@@ -1,4 +1,5 @@
 #!/bin/bash
+>>>>>>> Head
 echo "This School is so cool!"
 echo "hey"
 echo "Best School" 
